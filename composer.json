@@ -1,5 +1,5 @@
 {
-	"name": "xShimmy/kohana-cron",
+	"name": "xshimmy/kohana-cron",
 	"type": "kohana-module",
 	"description": "This module provides a way to schedule tasks (jobs) within your Kohana application.",
 	"keywords": ["kohana", "cron"],

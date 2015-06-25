@@ -1,0 +1,23 @@
+{
+	"name": "xShimmy/kohana-cron",
+	"type": "kohana-module",
+	"description": "This module provides a way to schedule tasks (jobs) within your Kohana application.",
+	"keywords": ["kohana", "cron"],
+	"homepage": "https://github.com/xShimmy/kohana-cron",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Chris Bandy",
+			"role": "Author"
+		},
+        {
+			"name": "Ivan Sosnin",
+            "email": "vansosnin@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+	}
+}
